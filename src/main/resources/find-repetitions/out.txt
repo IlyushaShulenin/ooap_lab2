@@ -1,0 +1,2 @@
+src/main/resources/find-repetitions/file2.txt
+src/main/resources/find-repetitions/file3.txt
